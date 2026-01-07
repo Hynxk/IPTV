@@ -37,3 +37,13 @@ https://live.redtraffic.xyz/threesome.m3u8
 https://live.redtraffic.net/woman.m3u8
 #EXTINF:-1 tvg-id="JennyForYou.us",Jenny For You (720p)
 https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTV.us",MiamiTV (1080p)
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="MiamiTVLatino.us",MiamiTV Latino (1080p)
+https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/playlist.m3u8
+#EXTINF:-1 tvg-id="BrazzersTVEurope.us",Brazzers TV Europe (720p)
+https://cdn-main.lolokoko.tv/BRAZZERS.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="PenthouseGold.us",Penthouse Gold (1080p)
+http://51.159.102.100/PenthouseGold/index.m3u8
+#EXTINF:-1 tvg-id="PlayboyTVLatinAmericaHD.us",Playboy TV Latin America (1080p)
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
